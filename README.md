@@ -1,2 +1,10 @@
 # nlp-twitter-tweets
-NLP using Python. Compare tweets about a conference and actual words spoken during said conference. 
+## NLP using Python. Compare tweets about a conference and actual words spoken during said conference. 
+
+### Background for this project
+This is my very first python project from a python class I took online. Before starting this project I had recently attended a conference for Qlik, called Qlik Qonnections. While at the conference the speakers would often encourage attendees to use certain hashtags and post on social media about their experience at conference. It made me wonder whether or not what was being talked about on social media was truly representative of what was being discussed at the actual conference. Or if social media just focuses on the topics that are hyped up at these conferences. Similiar to the thought that people are not entirely genuine on social media - only focusing and sharing the cool awesome parts of their life. 
+
+For this project I applied the same train of thought, but to a different conference. Every six months the Church of Jesus Christ of Latter-day Saints holds a conference. Similarly to my experience at the Qlik conference there was a presence on social media for people involved with the conference to share on social media using specific hashtags. My main focus was - are the tweets about this conference representative of what is being discussed during the entirety of the conference? 
+
+### What I learned 
+This project required web scraping data and quite a bit of data cleansing. The end result was just some word clouds to compare the top words from selected tweets with relevant hashtags and top words from all of the actual spoken words from the conference. I was able to gain some good experience cleaning real world data from the internet and take a project from inception to the end result. Although this project has no fancy machine learning or statistical analysis it has some clear and convincing end results. Often times a simple approach is enough to answer a basic question. Comparing the top words from each set of data was enough to see that the tweets about the conference were quite similar to the actual words being spoken during the conference. 
